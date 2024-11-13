@@ -1,0 +1,21 @@
+@font-face  {
+    font-family: "iA Writer Duo";
+    font-weight: normal;
+    src: url('ia-writer-duo/iAWriterDuoS-Regular.woff') format('woff2'),
+         url('ia-writer-duo/iAWriterDuoS-Regular.woff') format('woff');
+}
+
+@font-face  {
+    font-family: "iA Writer Duo";
+    font-weight: bold;
+    src: url('ia-writer-duo/iAWriterDuoS-Bold.woff2') format('woff2'),
+         url('ia-writer-duo/iAWriterDuoS-Bold.woff') format('woff');
+}
+
+@font-face  {
+    font-family: "iA Writer Duo";
+    font-weight: bold;
+    font-style: italic;
+    src: url('ia-writer-duo/iAWriterDuoS-BoldItalic.woff2') format('woff2'),
+         url('ia-writer-duo/iAWriterDuoS-BoldItalic.woff') format('woff');
+}

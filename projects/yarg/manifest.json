@@ -1,0 +1,14 @@
+{
+    "title": "Yet Another Rhythm Game (YARG)",
+    "brief": "Open source rhythm game inspired by Rock Band.",
+    "banner": "banner.png",
+    "images": [
+        "anim.gif"
+    ],
+    "repo": "https://github.com/EliteAsian123/YARG",
+    "project_links": [
+        {
+            "link": "https://yarg.in"
+        }
+    ]
+}

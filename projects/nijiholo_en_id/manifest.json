@@ -1,0 +1,17 @@
+{
+    "title": "NijiHolo EN/ID Interacts",
+    "brief": "A Twitter bot for Virtual YouTuber fans.",
+    "banner": "banner.png",
+    "images": [
+        "Screenshot_20230423_025443.png",
+        "Screenshot_20230423_025816.png",
+        "Screenshot_20230424_004811.png"
+    ],
+    "repo": "https://github.com/muskit/NijiHolo_EN_ID_Bot",
+    "project_links": [
+        {
+            "icon": "/icons/twitter.png",
+            "link": "https://twitter.com/NijiHolo_EN_ID"
+        }
+    ]
+}

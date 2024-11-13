@@ -1,0 +1,1 @@
+**A quality-of-life modification for VR game *Hot Dogs, Horseshoes, and Hand Grenades* that makes *Take and Hold* more accessible with minimal interference.**
