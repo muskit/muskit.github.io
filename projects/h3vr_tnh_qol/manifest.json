@@ -3,7 +3,9 @@
     "brief": "Mod for H3VR that makes the \"Take and Hold\" gamemode more accessible.",
     "banner": "banner.png",
     "images": [
-        "game-stats.png",
+        "stat-check.gif",
+		"hp-hide.gif",
+		"heal-timers.gif",
 		"object-constructor-table.png"
     ],
     "repo": "https://github.com/muskit/H3VR-TNH-Quality-of-Life-Improvements",
