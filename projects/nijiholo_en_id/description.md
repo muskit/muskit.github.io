@@ -2,8 +2,4 @@
 
 The bot periodically scrapes for tweets from various profiles and checks each tweet for a *cross-interaction*. It will then make a tweet of its own to announce it!
 
-This was originally created during a time when cross-interactions were a rare occurrence; and when they did happen, it was something that the community could celebrate. However since then, [the landscape in this space has vastly changed](https://x.com/dokibird/status/1754459958119432664). Combined with [tighter restrictions on accessing tweets since Elon Musk's transition](https://mashable.com/article/twitter-good-bot-purge-makeitaquote-hourly-animal-accounts), the bot would be decommissioned on May 1st, 2024.
-
----
-
-Developed in **Python**, deployed on the **Google Cloud Platform** since **November 2022**.
+This was originally created during a time when cross-interactions were a rare occurrence; and when they did happen, it fostered cross-community fan discussion that promoted each talent positively. However, [the landscape in this space has vastly changed since then](https://x.com/dokibird/status/1754459958119432664). Combined with [tighter restrictions on accessing tweets since Elon Musk's transition](https://mashable.com/article/twitter-good-bot-purge-makeitaquote-hourly-animal-accounts), the bot would be decommissioned on May 1st, 2024.
