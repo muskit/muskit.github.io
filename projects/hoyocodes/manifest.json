@@ -1,0 +1,15 @@
+{
+    "title": "HoYoCodes",
+    "brief": "A Discord bot for keeping up-to-date on gaming rewards codes.",
+    "banner": "banner.png",
+    "images": [
+        "ticker.png",
+        "subscription.png"
+    ],
+    "repo": "https://github.com/muskit/hoyocodes-discord-bot",
+    "project_links": [
+        {
+            "link": "https://top.gg/bot/1268957352581927022"
+        }
+    ]
+}
