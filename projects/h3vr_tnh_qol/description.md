@@ -1,5 +1,3 @@
-**A quality-of-life modification for VR game *Hot Dogs, Horseshoes, and Hand Grenades* that gives *Take and Hold* players just a little more information.**
-
 When playing *Take and Hold*, have you...
 - gotten frustrated checking your HP against a bright ceiling?
 - forgotten how many Holds you're playing for, so you don't know if you should spend all your tokens?
